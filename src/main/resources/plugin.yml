@@ -1,0 +1,9 @@
+name: MenuShop
+version: '1.0'
+main: me.wang.menuShop.MenuShop
+api-version: '1.21'
+authors: [ lao_wang ]
+description: GUI商店
+website: https://plugins.ngup.eu.org
+
+depend: [fmenu_for_1.21,XConomy]
